@@ -28,8 +28,13 @@
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-      <![endif]--><style>
-        body{
+      <![endif]-->
+      
+      </head>
+
+  <body>
+  <style>
+  body{
          marging-top:20px;
          backgroung-color:blue;
         
@@ -38,10 +43,6 @@
         }
       
       </style>
-      </head>
-
-  <body>
-
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
